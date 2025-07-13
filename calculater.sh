@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+#PERSONAL INFO 
+# HEIGHT 173 CM
+# WEIGHT 80KG 
